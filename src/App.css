@@ -13,6 +13,18 @@ ul {
 li {
   float: left;
 }
+img{
+  border-radius: 50%;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #212121;
+  text-align: center;
+  font-weight: bold;
+}
 
 .Navbar{
   background-color: #d7d2cc;
