@@ -10,7 +10,7 @@ const UserCard = ({ email, first_name, last_name, avatar }) => {
                         <div className="container">
                             <span><b><center>{first_name+' '+last_name}</center></b></span>
                             <p className='email'><center>{email}</center></p>
-                            <button className="button button1">Connected</button>
+                            <button className="button button1">Connect</button>
                             
                         </div>
                     </div>
